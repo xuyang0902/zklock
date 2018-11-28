@@ -56,6 +56,8 @@ public class CuratorTest {
          * 会话存活时间
          */
 
+        System.out.println("!!!!!");
+
 
         //
 
@@ -127,7 +129,7 @@ public class CuratorTest {
 
     @After
     public void after() {
-        curatorFramework.close();
+//        curatorFramework.close();
 
         System.out.println("curatorFramework cloese ...");
     }

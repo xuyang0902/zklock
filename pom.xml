@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>zk-lock</artifactId>
-    <groupId>com.tongbanjie</groupId>
+    <groupId>com.yuren</groupId>
     <version>1.0</version>
     <build>
         <plugins>

@@ -1,4 +1,4 @@
-import com.tongbanjie.zk.lock.core.ZkDistributedLock;
+import com.yuren.zk.lock.core.ZkDistributedLock;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
